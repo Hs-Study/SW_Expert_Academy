@@ -18,7 +18,39 @@
 
 <hr>
 
+### < 190116 >
 
+
+1. Hello Node.js 튜터링 복습하기<br>
+https://github.com/Hs-Study/nodejs/blob/master/190116/readme.md
+
+2. [번역] 웹 아키텍쳐 입문 읽어보기<br>
+https://blog.rhostem.com/posts/2018-07-22-web-architecture-101
+
+3. 익스퍼트 아카데미 D1 문제 다 풀고 풀리퀘스트 날리기<br>
+
+4. 환경변수 개념 읽어오기<br>
+https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기/Environment-Variable-환경변수
+
+5. 온라인 몽고디비 가입하기<br>
+https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기/mlab-com가입-및-온라인-Mongo-DB-생성
+
+6. 포스트맨 설치 / 용도 확인해보기<br>
+https://www.getpostman.com/downloads/
+
+7. 운영체제 강의 추천<br>
+https://olc.kr/course/course_online_view.jsp?id=35&s_keyword=Kernel&x=0&y=0#self
+
+8. MySQL 강의 듣기 (~2/8 전까지)<br>
+https://opentutorials.org/course/3161
+
+9. 콜백함수 개념 익히기<br>
+https://opentutorials.org/course/2136/11861
+
+10. 동기와 비동기 개념 익히기<br>
+https://opentutorials.org/course/2136/11884
+
+<hr>
 
 ### < 190109 >
 
