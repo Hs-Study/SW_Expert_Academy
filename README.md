@@ -17,6 +17,21 @@
 13. Repeat (5-12) <b>after pull the original repository.
 
 <hr>
+### < 190123 >
+
+1. Contact-book 튜터링 복습하기<br>[https://github.com/Hs-Study/nodejs/tree/master/190123](https://github.com/Hs-Study/nodejs/tree/master/190123)
+
+2. CRUD 개념 읽어보기<br>[https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기/CRUD와-7-Standard-Actions](https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기/CRUD와-7-Standard-Actions)
+
+3. REST API 개념 읽어보기<br>[https://meetup.toast.com/posts/92](https://meetup.toast.com/posts/92)
+
+4. Node.js 란? 읽어보기<br>[https://velopert.com/133](https://velopert.com/133)
+
+5. 익스퍼트 아카데미 D2 문제 풀고 풀리퀘스트 날리기<br>1945, 1986, 1928, 1989, 1284, 1288, 1959, 2007, 1948, 1979, 1966, 1961, 1954
+
+   
+
+<hr>
 
 ### < 190116 >
 
