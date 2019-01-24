@@ -40,12 +40,12 @@
 https://github.com/Hs-Study/nodejs/blob/master/190116/readme.md
 
 2. [번역] 웹 아키텍쳐 입문 읽어보기<br>
-https://blog.rhostem.com/posts/2018-07-22-web-architecture-101
+https://blog.rhostem.com/posts/2018-07-22-web-architecture-101 <br>[CDN 정리](https://github.com/Hs-Study/SW_Expert_Academy/blob/master/md/CDN.md)
 
 3. 익스퍼트 아카데미 D1 문제 다 풀고 풀리퀘스트 날리기<br>
 
 4. 환경변수 개념 읽어오기<br>
-https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기/Environment-Variable-환경변수
+https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기/Environment-Variable-환경변수 <br>
 
 5. 온라인 몽고디비 가입하기<br>
 https://www.a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기/mlab-com가입-및-온라인-Mongo-DB-생성
